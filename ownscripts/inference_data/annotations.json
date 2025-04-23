@@ -1,0 +1,392 @@
+[
+  {
+    "Video": "Fehler1.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "The Sortmaster is visible as it tries to pick up a part that has been cut out by the laser. The component slips and is not successfully removed. The process is interrupted and the machine stops."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler2.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "You can observe the Sortmaster's behavior during a part removal attempt. The vacuum suction fails, and the part returns to the scrap skeleton. The process is interrupted and the machine stops."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler3.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "In this video, you can see how the Sortmaster attempts to lift a laser-cut part. A malfunction occurs, causing the part to drop back onto the brush table. The machine comes to a standstill."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler4.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "Here, the Sortmaster is in operation, attempting to remove a component from the remaining grid. The part is not picked up properly and falls down again. The Sortmaster returns to its starting position and the machine halts."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler5.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "In this video, you can see how the Sortmaster attempts to lift a laser-cut part. The component slips and is not successfully removed. As a result, the machine stops and the Sortmaster resets."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler6.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "Here, the Sortmaster is in operation, attempting to remove a component from the remaining grid. The vacuum suction fails, and the part returns to the scrap skeleton. The process is interrupted and the machine stops."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler7.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "In this video, you can see how the Sortmaster attempts to lift a laser-cut part. A malfunction occurs, causing the part to drop back onto the brush table. The process is interrupted and the machine stops."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler8.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "The Sortmaster is visible as it tries to pick up a part that has been cut out by the laser. A malfunction occurs, causing the part to drop back onto the brush table. As a result, the machine stops and the Sortmaster resets."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler9.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "This footage shows the Sortmaster interacting with a part on the TRUMPF machine's brush table. During the process, the part is lost and falls back onto the remaining grid. The process is interrupted and the machine stops."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler10.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "In this video, you can see how the Sortmaster attempts to lift a laser-cut part. The component slips and is not successfully removed. As a result, the machine stops and the Sortmaster resets."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler11.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "You can see how the vacuum cup tries to lift the part, when trying to suck it up, the telescope falls down and onto the remaining grid. The machine comes to a standstill because nothing is moving anymore"
+      }
+    ]
+  },
+  {
+    "Video": "Fehler12.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "You can see how the vacuum cup tries to lift the separated part. The Sortmaster starts a new lifting attempt. The vacuum cup loses the part. The machine comes to a standstill, the production process is stopped"
+      }
+    ]
+  },
+  {
+    "Video": "Fehler13.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "The action is approximately in the center of the camera. You can see the remaining grid and the Sortmaster on the brush table. The Sortmaster, equipped with a vacuum suction cup, is trying to lift the part. It is lost on the way for further transportation and falls down. The machine stops and is at a standstill"
+      }
+    ]
+  },
+  {
+    "Video": "Fehler14.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "You can see how the Sortmaster tries to lift a sheet metal part and prepare it for further transportation. The part falls down during lifting and the Sortmaster has lost it."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler15.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "The vacuum cup tries to lift the part. The Sortmaster starts a new lifting process, pulls up jerkily and loses the previously cut part."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler16.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "We see a machine tool, a scrap grid and various devices. Among other things, we see the laser cutter and the Sortmaster. A part is lifted by the Sortmaster equipped with vacuum suction cups and loses it in the process. The production process stops."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler17.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "We see the production process of a laser cutting machine. A previously cut part is lifted by the vacuum suction cups for further transportation. The part is lost during lifting and the machine comes to a stop."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler18.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "We see how a production machine tries to separate a cut-out part from a scrap skeleton. The cut-out part is lifted by a Sortmaster equipped with vacuum suction cups and lost on the way."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler19.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "For a long time, we see a black image with captions. This black image appears when the doors are open and the machine is at a standstill. After some time, we can see what is happening again. We see the production environment of a laser cutting machine. A laser cutter and the Sortmaster, which prepares cut parts for further transportation. The machine components move a little at some point."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler20.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "For a long time, we see a black image with captions. This black image appears when the doors are open and the machine is at a standstill. After some time, we can see what is happening again. We see the production environment of a laser cutting machine. A laser cutter, a brush table with a residual grid from which many circular parts have been cut. The machine is standing still because nothing is moving."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler21.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "The part is lifted by the vacuum cup and lost again during the lifting process. The part falls back onto the remaining grid and the machine comes to a standstill"
+      }
+    ]
+  },
+  {
+    "Video": "Fehler22.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "The part is lifted by the vacuum cup and lost again during the lifting process. The part falls back onto the remaining grid and the machine comes to a standstill"
+      }
+    ]
+  },
+  {
+    "Video": "Fehler23.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "The Sortmaster equipped with vacuum suction cups tries to lift the part. You can see how the part falls back onto the remaining grid and the brush table during the lifting process. The Sortmaster moves to its starting position and the machine comes to a standstill"
+      }
+    ]
+  },
+  {
+    "Video": "Fehler24.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "You can see the production environment of a laser cutting machine with brush table and overlying scrap skeleton. You can see the Sortmaster equipped with vacuum suction cups carrying away a previously cut part."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler25.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "You have a restricted view of the machine. You can see the laser cutter on the right and the Sortmaster on the left, which has sucked in a part with its vacuum cups. The machine is at a standstill, nothing is moving"
+      }
+    ]
+  },
+  {
+    "Video": "Fehler26.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "You can see a production environment. The vacuum cup is trying to suck in a part. The part is still connected to the residual grid and is therefore not easy to suck in. When it tries again, the vacuum cup loses the part and it falls down. As a result, the machine stops moving and comes to a standstill"
+      }
+    ]
+  },
+  {
+    "Video": "Fehler27.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "You can see how the Sortmaster tries to lift a sheet metal part and prepare it for further transportation. The part falls down during lifting and the Sortmaster has lost it."
+      }
+    ]
+  },
+  {
+    "Video": "Fehler28.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": " You can briefly see the laser cutter moving at the beginning. Then the machine comes to a brief standstill. Then the machine components move and the laser cutter starts cutting. The laser cutter then starts the cutting process"
+      }
+    ]
+  },
+  {
+    "Video": "Fehler29.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "You can see how the vacuum cup tries to lift the part, when trying to suck it up, the telescope falls down and onto the remaining grid. The machine comes to a standstill because nothing is moving anymore"
+      }
+    ]
+  },
+  {
+    "Video": "Fehler29.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>What is this video about?"
+      },
+      {
+        "from": "gpt",
+        "value": "You can see how the vacuum cup tries to lift the part, when trying to suck it up, the telescope falls down and onto the remaining grid. The machine comes to a standstill because nothing is moving anymore"
+      }
+    ]
+  }
+]
